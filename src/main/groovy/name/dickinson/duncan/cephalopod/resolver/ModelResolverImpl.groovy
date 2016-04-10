@@ -1,4 +1,4 @@
-package name.dickinson.duncan.resolver
+package name.dickinson.duncan.cephalopod.resolver
 
 import org.apache.maven.model.Parent
 import org.apache.maven.model.Repository

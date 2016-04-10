@@ -20,8 +20,12 @@ dependencies {
     compile 'org.apache.maven:maven-aether-provider:3.3.3'
     compile 'org.apache.maven:maven:3.3.3'
     compile 'org.apache.maven:maven-project:2.2.1'
+    compile 'org.apache.maven.indexer:maven-indexer:5.1.1'
+    compile 'org.apache.maven.indexer:indexer-core:5.1.1'
+
+    compile 'com.beust:jcommander:1.48'
 }
 
 group 'com.example'
 version '1.0-SNAPSHOT'
-mainClassName = "name.dickinson.duncan.resolver.app.Main"
+mainClassName = "name.dickinson.duncan.cephalopod.resolver.app.Cli"

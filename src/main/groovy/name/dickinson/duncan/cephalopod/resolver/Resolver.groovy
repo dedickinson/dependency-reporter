@@ -1,4 +1,4 @@
-package name.dickinson.duncan.resolver
+package name.dickinson.duncan.cephalopod.resolver
 
 import groovy.util.logging.Slf4j
 import org.apache.maven.model.Model

@@ -1,6 +1,6 @@
-package name.dickinson.duncan.resolver.app
+package name.dickinson.duncan.cephalopod.resolver.app
 
-import name.dickinson.duncan.resolver.Resolver
+import name.dickinson.duncan.cephalopod.resolver.Resolver
 import org.apache.maven.model.Model
 import org.eclipse.aether.artifact.Artifact
 import org.eclipse.aether.repository.LocalRepository

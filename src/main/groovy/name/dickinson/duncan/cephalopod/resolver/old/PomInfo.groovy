@@ -1,4 +1,4 @@
-package name.dickinson.duncan.resolver.old
+package name.dickinson.duncan.cephalopod.resolver.old
 
 String mvnMetaFile = 'maven-metadata.xml'
 
